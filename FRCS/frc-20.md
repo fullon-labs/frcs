@@ -84,10 +84,6 @@ fucli transfer flon.token $from $to $quant $memo
 - `$quant` must be of a positive value otherwise the transaction submission would fail and not get accepted on-chain.
 
 
-*Note* 
-
-- `$quant` must be of a positive value otherwise the transaction submission would fail and not get accepted on-chain.
-
 ## Implementation
 
 
